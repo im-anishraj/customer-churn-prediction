@@ -15,7 +15,7 @@
 
 ## 🏆 Leaderboard
 
-![Leaderboard](assets/leaderboard.png)
+![Leaderboard](images/kaggle-ss.png)
 
 > 📌 Competed solo as **Solo Shadow** — Public Score: **0.91532**  
 > [![Open Competition](https://img.shields.io/badge/Kaggle-View%20Competition-20BEFF?logo=kaggle)](https://www.kaggle.com/competitions/playground-series-s6e3)
@@ -36,8 +36,8 @@ This project builds a **binary classification model** that predicts the probabil
 ```
 CHURN-S6E3/
 │
-├── assets/
-│   └── leaderboard.png               # Leaderboard screenshot
+├── images/
+│   └── kaggle-ss.png                 # Leaderboard screenshot
 │
 ├── data/
 │   ├── train.csv                     # Training dataset
